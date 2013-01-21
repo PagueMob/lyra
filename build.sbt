@@ -1,5 +1,7 @@
-name := "Lyra_StandardWS"
+organization := "com.lyra"
 
-version := "1.0.1"
+name := "lyra"
+
+version := "1.0.2"
 
 scalaVersion := "2.10.0"
